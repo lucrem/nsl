@@ -1,0 +1,40 @@
+{
+    "Menu":  [
+                 {
+                     "Alias":  "GCT",
+                     "Command":  "get cleaner targets",
+                     "Function":  "Get-NovashellCleanerTargets",
+                     "Description":  "get all novashell cleaner targets",
+                     "GUID":  "2f5a13ad-0f8b-4295-ab5f-b4a3059d5be0"
+                 },
+                 {
+                     "Alias":  "NCT",
+                     "Command":  "new cleaner target",
+                     "Function":  "New-NovashellCleanerTarget",
+                     "Description":  "create a new novashell cleaner target",
+                     "GUID":  "bfcfcfec-6ecd-4aba-b739-5a95f8bad2d7"
+                 },
+                 {
+                     "Alias":  "CCT",
+                     "Command":  "clear cleaner target",
+                     "Function":  "Clear-NovashellCleanerTarget",
+                     "Description":  "clear a novashell cleaner target",
+                     "GUID":  "84ddd680-9cd5-40f9-aeaf-eafcfd40b8ab"
+                 },
+                 {
+                     "Alias":  "IC",
+                     "Command":  "invoke cleaner",
+                     "Function":  "Invoke-NovashellCleaner",
+                     "Description":  "invoke the novashell cleaner",
+                     "GUID":  "db48a52f-3d87-414d-9162-ebb98e1c5f36"
+                 }
+             ],
+    "Targets":  [
+                    {
+                        "Path":  "\\\\FS01\\Scans",
+                        "Days":  "1",
+                        "Author":  "mar",
+                        "GUID":  "1d513d54-ac63-4a89-b64d-d583e012b29d"
+                    }
+                ]
+}

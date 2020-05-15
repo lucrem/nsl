@@ -1,0 +1,60 @@
+{
+    "Menu":  [
+                 {
+                     "Alias":  "NMM",
+                     "Command":  "new menu member",
+                     "Function":  "New-NovashellMenuMember",
+                     "Description":  "create a new menu member",
+                     "GUID":  "d462e299-4fda-44bc-a66b-659bd90b4185"
+                 },
+                 {
+                     "Alias":  "CMM",
+                     "Command":  "clear menu member",
+                     "Function":  "Clear-NovashellMenuMember",
+                     "Description":  "clear a menu member",
+                     "GUID":  "44514b08-bbb8-4d39-b811-c0a440f300e2"
+                 },
+                 {
+                     "Alias":  "ESC",
+                     "Command":  "exit launcher",
+                     "Function":  "Exit-Novashell",
+                     "Description":  "exit the novashell launcher",
+                     "GUID":  "c2c59108-bdb4-40c0-aa1e-28d51810866f"
+                 },
+                 {
+                     "Alias":  "SCC",
+                     "Command":  "set console color",
+                     "Function":  "Set-NovashellConsoleColor",
+                     "Description":  "set a console color",
+                     "GUID":  "a73b3a40-e238-4486-81af-2afe6883473d"
+                 },
+                 {
+                     "Alias":  "GLL",
+                     "Command":  "get launcher logs",
+                     "Function":  "Get-NovashellLog",
+                     "Description":  "get the launcher logs",
+                     "GUID":  "a1e9376f-c98b-45af-968f-4c334541b0ac"
+                 },
+                 {
+                     "Alias":  "MM",
+                     "Command":  "mount module",
+                     "Function":  "Mount-NovashellModule",
+                     "Description":  "mount a novashell module",
+                     "GUID":  "9bd3e888-165d-4cbf-9478-6c0922c6808d"
+                 },
+                 {
+                     "Alias":  "DM",
+                     "Command":  "dismount module",
+                     "Function":  "Dismount-NovashellModule",
+                     "Description":  "dismount a novashell module",
+                     "GUID":  "281a4637-e915-4e2d-a713-b0ef49744b61"
+                 },
+                 {
+                     "Alias":  "SLM",
+                     "Command":  "show launcher menu",
+                     "Function":  "New-NovashellMenu",
+                     "Description":  "show the novashell launcher menu",
+                     "GUID":  "59b80ca9-65b5-4836-a1ca-23fff52cea31"
+                 }
+             ]
+}

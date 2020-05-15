@@ -1,0 +1,18 @@
+{
+    "Menu":  [
+                 {
+                     "Alias":  "IPS",
+                     "Command":  "invoke ping scanner",
+                     "Function":  "Invoke-NovashellPingScanner",
+                     "Description":  "start the novashell ping scanner",
+                     "GUID":  "9e9d0f41-7ad8-461a-8af2-158a298585f2"
+                 },
+                 {
+                     "Alias":  "IOS",
+                     "Command":  "invoke port scanner",
+                     "Function":  "Invoke-NovashellPortScanner",
+                     "Description":  "start the novashell port scanner",
+                     "GUID":  "d5aa50af-63e8-418e-9389-63648335d177"
+                 }
+             ]
+}
