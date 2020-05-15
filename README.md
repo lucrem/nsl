@@ -1,0 +1,2 @@
+# nsl
+N Script Launcher
